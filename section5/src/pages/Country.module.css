@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.header {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid rgb(230,230,230);
+}
+
+.header > h1 {
+    margin-bottom: 0px;
+}
+
+.header > p {
+    margin-top: 0px;
+}
